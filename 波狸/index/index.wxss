@@ -1,0 +1,10 @@
+.intro {
+  margin: 1px;
+  text-align: center;
+  background-color: #f0f;
+}
+.introa {
+  margin: 1px;
+  text-align: center;
+  background-color: #0ff;
+}

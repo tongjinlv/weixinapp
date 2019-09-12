@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/main/main",
+    "pages/index/index",
+    "pages/bluetooth/bluetooth"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#ffff",
+    "navigationBarTitleText": "蓝牙测试",
+    "navigationBarTextStyle": "black"
+  }
+}
